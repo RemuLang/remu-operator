@@ -4,7 +4,7 @@ from pathlib import Path
 with Path('README.md').open() as readme:
     readme = readme.read()
 
-version = 1.0
+version = "1.0.1"
 
 setup(
     name='remu-operator',
