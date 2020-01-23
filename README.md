@@ -1,6 +1,6 @@
 ## Remu-Operator
 
-This is framework to separate the resolution of operator precedence and associativity from parsing time,
+This is, a framework to separate the resolution of operator precedence and associativity from parsing time,
 by using a concise algorithm instead of Shunting Yard algorithm.
 
 [Taine Zhao](http://github.com/thautwarm) is the author of this algorithm, and has named it "Operator Bubbling".
